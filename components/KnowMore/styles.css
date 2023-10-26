@@ -1,0 +1,26 @@
+.know-more {
+  background: url(../../public/know_more.webp);
+  height: 54rem;
+}
+
+.main-title {
+  color: #fff;
+  font-size: 10rem;
+  width: 65rem;
+  margin: 0 auto;
+  padding: 2rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.main-p {
+  color: #fff;
+  font-size: 1.8rem;
+  text-transform: none;
+  width: 80rem;
+  margin-top: 2rem;
+}

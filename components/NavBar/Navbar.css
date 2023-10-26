@@ -1,7 +1,7 @@
 .navbar {
-  background: #ffa600;
+  background: #387538;
   height: 10rem;
-  font-size: 6rem;
+  font-size: 4.5rem;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -17,17 +17,13 @@
 .nav-li {
   list-style-type: none;
   text-decoration: none;
-  color: #000000;
+  color: #2aff26;
 }
 
 .logo {
   margin-right: 20rem;
-  text-decoration: none;
-  color: #000000;
-  font-size: 10rem;
 }
 
 .nav-li:hover {
-  color: #444;
-  text-decoration: 2px underline;
+  color: #111111;
 }

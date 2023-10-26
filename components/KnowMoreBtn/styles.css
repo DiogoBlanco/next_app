@@ -1,0 +1,14 @@
+.know-more-btn {
+  background: #028502;
+  color: #fff;
+  font-size: 1.6rem;
+  text-decoration: none;
+  text-transform: none;
+  padding: 1rem 4rem;
+  margin-top: 4rem;
+}
+
+.know-more-btn:hover {
+  background-color: #2aff26;
+  color: #111111;
+}

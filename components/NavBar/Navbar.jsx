@@ -1,24 +1,32 @@
 import "./Navbar.css";
 import Link from "next/link";
+import Image from "next/image";
+import logo from "../../public/FIREFLY.webp";
 
 export default function Navbar() {
   return (
     <nav className="navbar">
       <ul className="nav-ul">
-        <Link className="logo" href={"/"}>
-          <p>FIRE</p>
+        <Link href={"/"}>
+          <Image src={logo} className="logo"></Image>
         </Link>
         <Link className="nav-li" href={"/"}>
-          Home
+          HOME
         </Link>
         <Link className="nav-li" href={"/"}>
-          Sobre
+          SOBRE NÓS
         </Link>
         <Link className="nav-li" href={"/"}>
-          Soluções
+          SERVIÇOS
         </Link>
         <Link className="nav-li" href={"/contact"}>
-          Contato
+          EQUIPE
+        </Link>
+        <Link className="nav-li" href={"/contact"}>
+          ESTATÍSTICAS
+        </Link>
+        <Link className="nav-li" href={"/contact"}>
+          CONTATO
         </Link>
       </ul>
     </nav>
