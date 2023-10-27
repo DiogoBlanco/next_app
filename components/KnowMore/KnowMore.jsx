@@ -3,10 +3,10 @@ import KnowMoreBtn from "../KnowMoreBtn/KnowMoreBtn";
 
 export default function KnowMore() {
   return (
-    <div class="know-more">
-      <div class="main-title">
+    <div className="know-more">
+      <div className="main-title">
         <h1>Protegendo você contra ataques cibernéticos</h1>
-        <p class="main-p">
+        <p className="main-p">
           Seja qual for o tamanho da sua empresa, oferecemos soluções de
           segurança personalizadas
         </p>

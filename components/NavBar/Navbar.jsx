@@ -8,7 +8,7 @@ export default function Navbar() {
     <nav className="navbar">
       <ul className="nav-ul">
         <Link href={"/"}>
-          <Image src={logo} className="logo"></Image>
+          <Image src={logo} className="logo" alt="firefly-logo"></Image>
         </Link>
         <Link className="nav-li" href={"/"}>
           HOME
