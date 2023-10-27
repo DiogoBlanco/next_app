@@ -1,5 +1,5 @@
-import Navbar from "@/components/NavBar/Navbar";
-import KnowMore from "@/components/KnowMore/KnowMore";
+import Navbar from "@/components/NavBar";
+import KnowMore from "@/components/KnowMore";
 
 export default function Home() {
   return (

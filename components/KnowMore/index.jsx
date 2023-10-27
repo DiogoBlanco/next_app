@@ -1,5 +1,5 @@
 import "./styles.css";
-import KnowMoreBtn from "../KnowMoreBtn/KnowMoreBtn";
+import KnowMoreBtn from "../KnowMoreBtn";
 
 export default function KnowMore() {
   return (

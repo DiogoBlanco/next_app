@@ -1,4 +1,4 @@
-import Navbar from "@/components/NavBar/Navbar";
+import Navbar from "@/components/NavBar";
 import "./styles.css";
 
 export default function Contact() {
