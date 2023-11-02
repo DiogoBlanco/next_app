@@ -1,10 +1,9 @@
-.know-more {
-  background: url(../../public/know_more.webp);
+.about-us {
   height: 54rem;
-  margin-top: 10rem;
+  background: #025002 ;
 }
 
-.main {
+.about {
   color: #fff;
   font-size: 10rem;
   width: 65rem;
@@ -18,10 +17,23 @@
   text-transform: uppercase;
 }
 
-.main-p {
+.about-p {
   color: #fff;
-  font-size: 1.8rem;
+  font-size: 2rem;
   text-transform: none;
   width: 80rem;
   margin-top: 2rem;
+}
+
+.left {
+  font-size: 9rem;
+  margin-right: 40rem;
+  padding: 0;
+  margin-bottom: 0;
+}
+
+.right {
+  font-size: 9rem;
+  margin: 0;
+  padding: 0;
 }
