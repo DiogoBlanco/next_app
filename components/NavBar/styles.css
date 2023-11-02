@@ -1,5 +1,5 @@
 .navbar {
-  background: #387538;
+  background: #524f81;
   height: 10rem;
   font-size: 4.5rem;
   display: flex;
@@ -21,7 +21,7 @@
 .nav-li {
   list-style-type: none;
   text-decoration: none;
-  color: #2aff26;
+  color: #fff;
 }
 
 .logo {
